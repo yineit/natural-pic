@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.navbar {
+  background: #2E038C;
+  padding: 20px;
+  color: white;
+}
